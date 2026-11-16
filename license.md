@@ -203,7 +203,7 @@ Use the button in the Quick Start section.
 
 ---
 
-*Age of Empires IV: Anniversary Edition · Updated 2026-11-15 · Shared under the MIT License*
+*Age of Empires IV: Anniversary Edition · Updated 2026-11-16 · Shared under the MIT License*
 
 
-*Last updated: 2026-11-15*
+*Last updated: 2026-11-16*
